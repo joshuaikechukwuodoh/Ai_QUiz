@@ -1,0 +1,7 @@
+### Analyze PDF Quiz
+POST http://localhost:3000/api/analyzequiz
+Content-Type: application/json
+
+{
+  "fileUrl": "https://f8fqhm1n16.ufs.sh/f/UeMVql2Euh8BH3X5n6plQhqwbfuT65FaY2L1rGejUkWER94t"
+}
